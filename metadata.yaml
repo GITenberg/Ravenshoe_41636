@@ -1,0 +1,40 @@
+_repo: Ravenshoe_41636
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Woodville, Richard Caton
+    alias: Woodville, R. Caton (Richard Caton)
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '40001'
+    url: http://www.gutenberg.org/2009/agents/40001
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Henry
+    birthdate: 1830
+    deathdate: 1876
+    gutenberg_agent_id: '1304'
+    url: http://www.gutenberg.org/2009/agents/1304
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Kingsley
+description: This novel has as its hero Charles Ravenshoe, a member of one of the
+  leading commoner families in England in 19th century.
+gutenberg_issued: '2012-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- 19th century -- Fiction'
+- !lcsh 'Country life -- England -- Fiction'
+- !lcsh 'Catholics -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: Ravenshoe
+url: http://www.gutenberg.org/ebooks/41636
