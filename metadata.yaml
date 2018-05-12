@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Henry_Kingsley
 description: This novel has as its hero Charles Ravenshoe, a member of one of the
   leading commoner families in England in 19th century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41636#Ravenshoe
 gutenberg_issued: '2012-12-16'
 gutenberg_type: Text
 identifiers:
